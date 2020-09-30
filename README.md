@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=Avinash-Murugappan&color=c587c9"/>
   <br />
   <a href="https://www.linkedin.com/in/avinash-murugappan-73b901164/"> 
-    &nbsp
+  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  
   <img align="center" alt="Avinash's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/avinash_arunachalam/">
