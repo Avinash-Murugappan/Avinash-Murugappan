@@ -17,7 +17,7 @@
 
 Hello! I'm a CS Grad. I enjoy developing software, whether that be websites, applications, or anything in between. My goal is to always build products that provide pixel-perfect, performant experiences. My hobbies include photography, videography and playing tennis.
 
-**Languages and Tools**
+**Languages and Tools:**
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" />
