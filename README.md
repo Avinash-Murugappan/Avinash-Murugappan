@@ -2,7 +2,7 @@
 
 <p align="center">
   
-  ![](https://komarev.com/ghpvc/?username=Avinash-Murugappan&color=c587c9)
+  <img src="https://komarev.com/ghpvc/?username=Avinash-Murugappan&color=c587c9"/>
   
 </p>
 
