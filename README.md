@@ -41,7 +41,6 @@ Hello! I'm a CS Grad. I enjoy developing software, whether that be websites, app
 </p>
 
 <br />
-<br />
 
 **Stats**
 
