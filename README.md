@@ -1,4 +1,4 @@
-### Hi there, I am Avinash 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I am Avinash <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ![](https://komarev.com/ghpvc/?username=Avinash-Murugappan&color=c587c9)
 <!--
 **Avinash-Murugappan/Avinash-Murugappan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
