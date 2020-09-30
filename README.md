@@ -3,14 +3,14 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Avinash-Murugappan&color=c587c9"/>
 </p>
-<div>
+<p align="center">
   <a href="https://www.linkedin.com/in/avinash-murugappan-73b901164/">
   <img align="left" alt="Avinash's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/avinash_arunachalam/">
   <img align="left" alt="Avinash's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-</div>
+</p>
 
 <!--
 **Avinash-Murugappan/Avinash-Murugappan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avinash-Murugappan&theme=cobalt" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Avinash-Murugappan&show_icons=true&hide=contribs,issues&theme=cobalt" />
+</p>
