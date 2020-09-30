@@ -2,16 +2,17 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Avinash-Murugappan&color=c587c9"/>
-</p>
-
-  <a align="center">
+  
   <a href="https://www.linkedin.com/in/avinash-murugappan-73b901164/">
   <img align="center" alt="Avinash's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/avinash_arunachalam/">
   <img align="center" alt="Avinash's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-  </a>
+
+</p>
+
+
 
 <!--
 **Avinash-Murugappan/Avinash-Murugappan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
