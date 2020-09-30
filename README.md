@@ -1,8 +1,5 @@
 ### Hi there, I am Avinash 👋
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Avinash-Murugappan&label=Profile+Views" />
-</p>
-
+![](https://komarev.com/ghpvc/?username=Avinash-Murugappan&color=dc143c)
 <!--
 **Avinash-Murugappan/Avinash-Murugappan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
