@@ -38,6 +38,7 @@ Hello! I'm a CS Grad. I enjoy developing software, whether that be websites, app
 <br />
 <br />
 
+**Stats**
 
 <br />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avinash-Murugappan&theme=cobalt" />
