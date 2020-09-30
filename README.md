@@ -1,7 +1,9 @@
 <h1 align="center"> Hi there, I am Avinash <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
 <p align="center">
+  
   ![](https://komarev.com/ghpvc/?username=Avinash-Murugappan&color=c587c9)
+  
 </p>
 
 <p align="center">
