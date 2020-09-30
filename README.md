@@ -11,7 +11,7 @@
 </a>
 </p>
 
-**Avinash-Murugappan/Avinash-Murugappan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **Avinash-Murugappan/Avinash-Murugappan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 # About me:
 Hello! I'm a CS Grad. I enjoy developing software, whether that be websites, applications, or anything in between. My goal is to always build products that provide pixel-perfect, performant experiences.
