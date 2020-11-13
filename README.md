@@ -7,7 +7,7 @@
   <img align="center" alt="Avinash's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
   &nbsp;   &nbsp; 
-<a href="https://www.instagram.com/avinash_arunachalam/">
+<a href="https://www.instagram.com/avi_codes/">
   <img align="center" alt="Avinash's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 </p>
