@@ -16,7 +16,7 @@
 
 **About me:**
 
-Hello! I'm a CS Grad. I enjoy developing software, whether that be websites, applications, or anything in between. My goal is to always build products that provide pixel-perfect, performant experiences. My hobbies include photography, videography and playing tennis.
+Hello! I'm a CS Grad. I enjoy developing software, whether that be websites, applications, or anything in between. My hobbies include photography, videography and playing tennis.
 
 **Languages and Tools:**
 
