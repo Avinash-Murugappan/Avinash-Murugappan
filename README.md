@@ -23,7 +23,7 @@
 <img alt="Python" src="https://devstickers.com/assets/img/pro/p3jo.png" width="40">
  </a>
    <a href="https://www.djangoproject.com/">
-<img alt="Avinash" src="https://devstickers.com/buy/django-34qe.png" width="40">
+<img alt="Avinash" src="https://devstickers.com/assets/img/pro/34qe.png" width="40">
   </a>
    <a href="https://www.java.com/">
 <img alt="Java" src="https://devstickers.com/assets/img/pro/7kaq.png" width="40">
@@ -41,12 +41,12 @@
 <img alt="Jenkins" src="https://devstickers.com/assets/img/pro/cypb.png" width="40">
   </a>
   <a href="https://redux.js.org/">
-<img alt="Redux" src="https://devstickers.com/buy/react-js-h8ci" width="40">
+<img alt="Redux" src="https://devstickers.com/assets/img/pro/h8ci.png" width="40">
   </a>
  <a href="https://code.visualstudio.com/">
 <img alt="VS Code" src="https://devstickers.com/assets/img/pro/saxu.png" width="40">
   </a>
-<a href="https://www.adobe.com/products/photoshop.html">
-<img alt="Photoshop" src="https://devstickers.com/assets/img/pro/k176.png" width="40">
+<a href="https://wordpress.com/">
+<img alt="Wordpress" src="https://devstickers.com/assets/img/pro/nj4z.png"" width="40">
   </a>
 </p>
