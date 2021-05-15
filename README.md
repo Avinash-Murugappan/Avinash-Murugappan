@@ -34,6 +34,9 @@
  <a href="https://en.wikipedia.org/wiki/CCS3">
 <img alt="CSS" src="https://devstickers.com/assets/img/pro/8pnd.png" width="40">
   </a>
+   <a href="https://styled-components.com/">
+<img alt="styled-components" src="https://ih1.redbubble.net/image.446304524.2298/st,small,507x507-pad,600x600,f8f8f8.u2.jpg" width="40">
+  </a>
  <a href="https://git-scm.com/">
 <img alt="Git" src="https://devstickers.com/assets/img/pro/apiv.png" width="40">
   </a>
