@@ -38,7 +38,7 @@
 <img alt="Git" src="https://devstickers.com/assets/img/pro/apiv.png" width="40">
   </a>
    <a href="https://www.jenkins.io/">
-<img alt="Jenkins" src="https://devstickers.com/buy/jenkins-cypb" width="40">
+<img alt="Jenkins" src="https://devstickers.com/assets/img/pro/cypb.png" width="40">
   </a>
   <a href="https://redux.js.org/">
 <img alt="Redux" src="https://devstickers.com/buy/react-js-h8ci" width="40">
