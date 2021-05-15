@@ -23,7 +23,7 @@
 <img alt="Python" src="https://devstickers.com/assets/img/pro/p3jo.png" width="40">
  </a>
    <a href="https://www.djangoproject.com/">
-<img alt="Avinash" src="https://devstickers.com/buy/django-34qe" width="40">
+<img alt="Avinash" src="https://devstickers.com/buy/django-34qe.png" width="40">
   </a>
    <a href="https://www.java.com/">
 <img alt="Java" src="https://devstickers.com/assets/img/pro/7kaq.png" width="40">
