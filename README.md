@@ -53,3 +53,15 @@
 <img alt="Wordpress" src="https://devstickers.com/assets/img/pro/nj4z.png"" width="40">
   </a>
 </p>
+
+## 
+### 💬 Find me [elsewhere on the internet](https://linktr.ee/avi_codes).
+## 
+
+
+<img alt="Avinash" align="left" src="https://cdn.dribbble.com/users/410907/screenshots/2044702/wasting_time.gif " width="250">
+<img align="right" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Avinash_Murugappan&show_icons=true&hide_border=true&count_private=true"/>
+
+
+
+
