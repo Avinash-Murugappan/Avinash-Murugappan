@@ -4,8 +4,6 @@
 
 <!-- **Avinash-Murugappan/Avinash-Murugappan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 ##
-
-<img alt="we can do it" align="right" src="https://png2.cleanpng.com/sh/bf21c7f4239e020b81cdded1b666884c/L0KzQYm3V8EzN6J5epH0aYP2gLBuTgdmNZRmhp9tbz3shH7xTfhwf5J3fJ92aXzvdcO0kBVkd59pRel4cnznPcjokr1zd158fZ9sYX6wdLE0igQuPZM5T9hqNEDnQLPoUsAvP2I3SaI7MEO0RYS4VMQ0P2g7UKcALoDxd1==/kisspng-we-can-do-it-j-howard-miller-second-world-war-ro-we-can-do-it-5b47fa40d0ba20.712102031531443776855.png" width="100">
 <samp><p align=”justify” style="text-indent:40px;">I'm <b>Avinash</b> a CS Grad who enjoys developing software, whether that be websites, applications, or anything in between. Always ready to learn new skills and start new adventures. My hobbies include photography, videography and playing tennis.</p></samp>
 
 ## 
