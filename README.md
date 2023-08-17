@@ -48,9 +48,6 @@
  <a href="https://code.visualstudio.com/">
 <img alt="VS Code" src="https://devstickers.com/assets/img/pro/saxu.png" width="40">
   </a>
-<a href="https://wordpress.com/">
-<img alt="Wordpress" src="https://devstickers.com/assets/img/pro/nj4z.png"" width="40">
-  </a>
 </p>
 
 ## 
